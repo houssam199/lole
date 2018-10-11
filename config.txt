@@ -1,0 +1,6 @@
+token=NDk5ODYyNzMyMDk1MzU2OTI4.DqCdCw.M8oOFqv9966Pw9XDLHr6-slmjgw
+owner=464046823162511400
+prefix=Lo
+game=Tybe Lohelp
+stayinchannel=true
+songinstatus=false
